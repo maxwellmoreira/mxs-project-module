@@ -1,0 +1,14 @@
+//[PACKAGE]
+
+//[IMPORT]
+
+@Controller
+@RequestMapping(value = "[DOMAIN_URI]")
+public class [CONTROLLER_NAME] {
+
+    private static final Logger logger = LoggerFactory.getLogger([CONTROLLER_NAME].class);
+
+    //[FACADE]
+
+    //[METHOD]
+}
